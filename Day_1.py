@@ -1,0 +1,4 @@
+print("NAMASKARA")
+
+#DAY1 OUTPUT
+#NAMASKARA
